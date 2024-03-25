@@ -1,0 +1,2 @@
+# lc
+Leedcode practice
