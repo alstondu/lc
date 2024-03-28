@@ -12,3 +12,5 @@ Leedcode practice
 1. [LC: 203.移除链表元素](https://github.com/alstondu/lc/tree/main/203) | [Description](https://leetcode.cn/problems/remove-linked-list-elements/description/)
 2. [LC 707.设计链表](https://github.com/alstondu/lc/tree/main/707) | [Description](https://leetcode.cn/problems/design-linked-list/description/)
 3. [LC 206.翻转链表](https://github.com/alstondu/lc/tree/main/206) | [Description](https://leetcode.cn/problems/reverse-linked-list/description/)
+4. [Lc 24.两两交换链表中的节点](https://github.com/alstondu/lc/tree/main/24) | [Description](https://leetcode.cn/problems/swap-nodes-in-pairs/description/)
+5. [LC 19.删除链表的倒数第N个节点](https://github.com/alstondu/lc/tree/main/19) | [Description](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/description/)
