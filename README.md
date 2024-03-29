@@ -14,3 +14,5 @@ Leedcode practice
 3. [LC 206.翻转链表](https://github.com/alstondu/lc/tree/main/206) | [Description](https://leetcode.cn/problems/reverse-linked-list/description/)
 4. [Lc 24.两两交换链表中的节点](https://github.com/alstondu/lc/tree/main/24) | [Description](https://leetcode.cn/problems/swap-nodes-in-pairs/description/)
 5. [LC 19.删除链表的倒数第N个节点](https://github.com/alstondu/lc/tree/main/19) | [Description](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/description/)
+6. [LC 160.链表相交](https://github.com/alstondu/lc/tree/main/160) | [Description](https://leetcode.cn/problems/intersection-of-two-linked-lists/description/)
+7. [LC 142.环形链表](https://github.com/alstondu/lc/tree/main/142) ｜ [Description](https://leetcode.cn/problems/linked-list-cycle-ii/description/)
