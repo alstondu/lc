@@ -16,3 +16,7 @@ Leedcode practice
 5. [LC 19.删除链表的倒数第N个节点](https://github.com/alstondu/lc/tree/main/19) | [Description](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/description/)
 6. [LC 160.链表相交](https://github.com/alstondu/lc/tree/main/160) | [Description](https://leetcode.cn/problems/intersection-of-two-linked-lists/description/)
 7. [LC 142.环形链表](https://github.com/alstondu/lc/tree/main/142) ｜ [Description](https://leetcode.cn/problems/linked-list-cycle-ii/description/)
+
+## 哈希表
+1. [LC 142.有效的字母异位词](https://github.com/alstondu/lc/tree/main/242) ｜ [Description](https://leetcode.cn/problems/valid-anagram/description/)
+2. [LC 1002.查找共用字符](https://github.com/alstondu/lc/tree/main/1002) | [Description](https://leetcode.cn/problems/find-common-characters/description/)
