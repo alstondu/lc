@@ -20,3 +20,5 @@ Leedcode practice
 ## 哈希表
 1. [LC 142.有效的字母异位词](https://github.com/alstondu/lc/tree/main/242) ｜ [Description](https://leetcode.cn/problems/valid-anagram/description/)
 2. [LC 1002.查找共用字符](https://github.com/alstondu/lc/tree/main/1002) | [Description](https://leetcode.cn/problems/find-common-characters/description/)
+3. [LC 349.两个数组的交集](https://github.com/alstondu/lc/tree/main/349) | [Description](https://leetcode.cn/problems/intersection-of-two-arrays/description/)
+4. [LC 202.快乐数](https://github.com/alstondu/lc/tree/main/202) | [Description](https://leetcode.cn/problems/happy-number/)
