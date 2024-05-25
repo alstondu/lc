@@ -21,11 +21,11 @@ public:
 
             // 下面开始的四个for就是模拟转了一圈
             // 模拟填充上行从左到右(左闭右开)
-            for (j; j < n - offset; j++) {
+            for (; j < n - offset; j++) {
                 res[i][j] = count++;
             }
             // 模拟填充右列从上到下(左闭右开)
-            for (i; i < n - offset; i++) {
+            for (; i < n - offset; i++) {
                 res[i][j] = count++;
             }
             // 模拟填充下行从右到左(左闭右开)
@@ -67,6 +67,6 @@ int main(){
     // cout << "Solution =" << solution.generateMatrix(3) << endl;
 
     // Display the matrix
-    displayMatrix(solution.generateMatrix(4));
+    displayMatrix(solution.generateMatrix(3));
     return 0;
 }
