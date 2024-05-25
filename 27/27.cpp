@@ -1,8 +1,8 @@
 //  Created by Yuang Du on 2024/3/25.
 //  lc 27. 移除数组中元素
 //  双指针做法：
-//  fastIndex 指向非目标元素
-//  slowIndex 指向所需覆盖位置
+//  read 指向非目标元素
+//  write 指向所需覆盖位置
 
 #include <iostream>
 #include <vector>
@@ -13,13 +13,13 @@ using namespace std;
 class Solution {
 public:
     int removeElement(vector<int>& nums, int val) {
-        int slowIndex = 0;
-        for (int fastIndex = 0; fastIndex < nums.size(); fastIndex++) {
-            if (val != nums[fastIndex]) {
-                nums[slowIndex++] = nums[fastIndex];
+        int write = 0;
+        for (int read = 0; read < nums.size(); read++) {
+            if (val != nums[read) {
+                nums[write++] = nums[read];
             }
         }
-        return slowIndex;
+        return write;
     }
 };
 
