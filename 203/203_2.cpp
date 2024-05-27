@@ -1,35 +1,34 @@
-//  Created by Yuang Du on 2024/3/26.
-//  Lc 203. 移除链表元素
-//  利用虚拟头结点统一链表遍历删除规则
+// Practice 2
+// 2024/05/24
 
 #include "utils.h"
 
-class Solution {
-public:
-    ListNode* removeElements(ListNode* head, int val) {
-        ListNode* dummyHead = new ListNode(0); // 设置一个虚拟头结点
-        dummyHead->next = head; // 将虚拟头结点指向head，这样方便后面做删除操作
-        ListNode* cur = dummyHead;
-        while (cur->next != NULL) {
-            if(cur->next->val == val) {
-                ListNode* tmp = cur->next;
-                cur->next = cur->next->next;
-                delete tmp;
-            } else {
+class Solution{
+    public:
+        ListNode* removeElements(ListNode* head, int val){
+            ListNode* dummyHead = new ListNode(0);
+            dummyHead->next = head;
+            ListNode* cur = dummyHead;
+
+            while(cur->next != NULL){
+                if (cur->next->val == val){
+                    ListNode* tmp = cur->next;
+                    cur->next = cur->next->next;
+                    delete tmp;
+                }
                 cur = cur->next;
             }
+            head = dummyHead->next;
+            delete dummyHead;
+            return head;
         }
-        head = dummyHead->next; // 不直接return head 以防head被删除
-        delete dummyHead;
-        return head;
-    }
 };
 
 int main() {
     Solution solution;
     
     // 给定的数组
-    int values[] = {1, 2, 6, 3, 4, 5, 6};
+    int values[] = {1, 2, 6, 6, 3, 4, 5, 5};
     int n = sizeof(values) / sizeof(values[0]); // 计算数组长度
 
     // 创建链表的头结点
@@ -70,4 +69,3 @@ int main() {
 
     return 0;
 }
-
