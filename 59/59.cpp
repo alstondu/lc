@@ -1,9 +1,8 @@
 //  Created by Yuang Du on 2024/3/26.
 //  Lc 59. 螺旋矩阵
 
-#include <iostream>
-#include <vector>
-using namespace std;
+
+#include "utils.h"
 
 class Solution {
 public:
@@ -52,15 +51,6 @@ public:
         return res;
     }
 };
-
-void displayMatrix(const std::vector<std::vector<int>>& matrix) {
-    for (const auto& row : matrix) { // Iterate through each row
-        for (const auto& element : row) { // Iterate through each element in the row
-            std::cout << element << " "; // Print element followed by a space
-        }
-        std::cout << std::endl; // After each row, print a newline
-    }
-}
 
 int main(){
     Solution solution;
