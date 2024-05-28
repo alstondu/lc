@@ -21,4 +21,13 @@ void displayMatrix(const std::vector<std::vector<int>>& matrix) {
     }
 }
 
+void printLinkedList(ListNode* Head) {
+    ListNode* cur = Head;
+    while (cur != nullptr) {
+        cout << cur->val << " ";
+        cur = cur->next;
+    }
+    cout << endl;
+}
+
 #endif
