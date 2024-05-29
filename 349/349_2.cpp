@@ -1,7 +1,7 @@
 // Practice 2
 // 2024/05/27
 
-#include "utils.h"
+#include "lc.h"
 
 
 class Solution {
