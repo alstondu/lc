@@ -22,3 +22,8 @@ Leetcode practice
 2. [LC 1002.查找共用字符](https://github.com/alstondu/lc/tree/main/1002) | [Description](https://leetcode.cn/problems/find-common-characters/description/)
 3. [LC 349.两个数组的交集](https://github.com/alstondu/lc/tree/main/349) | [Description](https://leetcode.cn/problems/intersection-of-two-arrays/description/)
 4. [LC 202.快乐数](https://github.com/alstondu/lc/tree/main/202) | [Description](https://leetcode.cn/problems/happy-number/)
+5. [LC 1.两数之和](https://github.com/alstondu/lc/tree/main/1) | [Description](https://leetcode.cn/problems/two-sum/description/)
+6. [LC 454.四数相加II](https://github.com/alstondu/lc/tree/main/454) | [Description](https://leetcode.cn/problems/4sum-ii/description/)
+7. [LC 383. 赎金信](https://github.com/alstondu/lc/tree/main/383) | [Description](https://leetcode.cn/problems/ransom-note/description/)
+8. [LC 15.三数之和](https://github.com/alstondu/lc/tree/main/15) | [Description](https://leetcode.cn/problems/3sum/description/)
+9. [LC 18.四数之和](https://github.com/alstondu/lc/tree/main/18) | [Description](https://leetcode.cn/problems/4sum/description/)
