@@ -27,3 +27,11 @@ Leetcode practice
 7. [LC 383. 赎金信](https://github.com/alstondu/lc/tree/main/383) | [Description](https://leetcode.cn/problems/ransom-note/description/)
 8. [LC 15.三数之和](https://github.com/alstondu/lc/tree/main/15) | [Description](https://leetcode.cn/problems/3sum/description/)
 9. [LC 18.四数之和](https://github.com/alstondu/lc/tree/main/18) | [Description](https://leetcode.cn/problems/4sum/description/)
+
+## 字符串
+1. [LC 344.反转字符串](https://github.com/alstondu/lc/tree/main/344) | [Description](https://leetcode.cn/problems/reverse-string/description/)
+2. [LC 541.反转字符串II](https://github.com/alstondu/lc/tree/main/541) | [Description](https://leetcode.cn/problems/reverse-string-ii/description/)
+3. [卡码网 54.替换数字](https://github.com/alstondu/lc/tree/main/km54) | [Description](https://kamacoder.com/problempage.php?pid=1064)
+4. [LC 151.翻转字符串里的单词](https://github.com/alstondu/lc/tree/main/151) | [Description](https://leetcode.cn/problems/reverse-words-in-a-string/description/)
+5. [卡码网 55右旋字符串](https://github.com/alstondu/lc/tree/main/km55) | [Description](https://kamacoder.com/problempage.php?pid=1065)
+
