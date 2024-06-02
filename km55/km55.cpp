@@ -1,5 +1,5 @@
 //  Created by Yuang Du on 2024/05/29.
-//  km54. 右旋字符串
+//  km55. 右旋字符串
 
 #include "lc.h"
 
