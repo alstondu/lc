@@ -35,3 +35,6 @@ Leetcode practice
 4. [LC 151.翻转字符串里的单词](https://github.com/alstondu/lc/tree/main/151) | [Description](https://leetcode.cn/problems/reverse-words-in-a-string/description/)
 5. [卡码网 55右旋字符串](https://github.com/alstondu/lc/tree/main/km55) | [Description](https://kamacoder.com/problempage.php?pid=1065)
 
+## 栈和队列
+1. [LC 232.用栈实现队列](https://github.com/alstondu/lc/tree/main/232) | [Description](https://leetcode.cn/problems/implement-queue-using-stacks/description/)
+2. [LC 225.用队列实现栈](https://github.com/alstondu/lc/tree/main/225) | [Description](https://leetcode.cn/problems/implement-stack-using-queues/description/)
