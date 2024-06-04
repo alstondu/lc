@@ -38,3 +38,9 @@ Leetcode practice
 ## 栈和队列
 1. [LC 232.用栈实现队列](https://github.com/alstondu/lc/tree/main/232) | [Description](https://leetcode.cn/problems/implement-queue-using-stacks/description/)
 2. [LC 225.用队列实现栈](https://github.com/alstondu/lc/tree/main/225) | [Description](https://leetcode.cn/problems/implement-stack-using-queues/description/)
+3. [LC 20.有效的括号](https://github.com/alstondu/lc/tree/main/20) | [Description](https://leetcode.cn/problems/valid-parentheses/description/)
+4. [LC 1047.删除字符串中的所有相邻重复项
+](https://github.com/alstondu/lc/tree/main/1047) | [Description](https://leetcode.cn/problems/remove-all-adjacent-duplicates-in-string/description/)
+5. [LC 150.逆波兰表达式求值](https://github.com/alstondu/lc/tree/main/150) | [Description](https://leetcode.cn/problems/evaluate-reverse-polish-notation/description/)
+6. [LC 239.滑动窗口最大值](https://github.com/alstondu/lc/tree/main/239) | [Description](https://leetcode.cn/problems/sliding-window-maximum/description/)
+7. [LC 347.前 K 个高频元素](https://github.com/alstondu/lc/tree/main/347) | [Description](https://leetcode.cn/problems/top-k-frequent-elements/description/)
