@@ -9,13 +9,20 @@
 #include<queue>
 using namespace std;
 
-// Listnode
+// ListNode
 struct ListNode {
     int val;  // 节点上存储的元素
     ListNode *next;  // 指向下一个节点的指针
     ListNode(int x) : val(x), next(NULL) {}  // 节点的构造函数
 };
 
+// TreeNode
+struct TreeNode {
+    int val;
+    TreeNode *left;
+    TreeNode *right;
+    TreeNode(int x): val(x), left(NULL), right(NULL){};
+};
 
 void displayMatrix(const std::vector<std::vector<int>>& matrix) {
     for (const auto& row : matrix) { // Iterate through each row
