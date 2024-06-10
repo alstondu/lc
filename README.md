@@ -46,4 +46,4 @@ Leetcode practice
 7. [LC 347.前 K 个高频元素](https://github.com/alstondu/lc/tree/main/347) | [Description](https://leetcode.cn/problems/top-k-frequent-elements/description/)
 
 ## 二叉树
-1. [LC 144，145，94.二叉树遍历](https://github.com/alstondu/lc/tree/main/14414594) | [Description 144](https://leetcode.cn/problems/binary-tree-preorder-traversal/description/)｜[Description 145](https://leetcode.cn/problems/binary-tree-postorder-traversal/description/)｜[Description 94](https://leetcode.cn/problems/binary-tree-inorder-traversal/description/)
+1. [LC 144, 145, 94.二叉树遍历](https://github.com/alstondu/lc/tree/main/144%EF%BC%8C145%EF%BC%8C94) | [Description 144](https://leetcode.cn/problems/binary-tree-preorder-traversal/description/)｜[Description 145](https://leetcode.cn/problems/binary-tree-postorder-traversal/description/)｜[Description 94](https://leetcode.cn/problems/binary-tree-inorder-traversal/description/)

@@ -37,14 +37,16 @@ TreeNode(int x): value(x), left(NULL), rignt(NULL){}
 };
 ```
 
-# 144，145，94 二叉树遍历
-[Leedcode 链接🔗 144](https://leetcode.cn/problems/binary-tree-preorder-traversal/description/)  
+# 144, 145, 94 二叉树遍历
+[Leedcode 链接🔗144](https://leetcode.cn/problems/binary-tree-preorder-traversal/description/)  
 
 [Leedcode 链接🔗 145](https://leetcode.cn/problems/binary-tree-postorder-traversal/description/) 
 
 [Leedcode 链接🔗 94](https://leetcode.cn/problems/binary-tree-inorder-traversal/description/) 
 
-[Code](https://github.com/alstondu/lc/blob/main/14414594/14414594.cpp)
+[Code 递归](https://github.com/alstondu/lc/blob/main/144%EF%BC%8C145%EF%BC%8C94/14414594_dg.cpp)
+
+[Code 迭代](https://github.com/alstondu/lc/blob/main/144%EF%BC%8C145%EF%BC%8C94/14414594_dd.cpp)
 
 ## 题目
 给定二叉树的根节点 ```root``` ，返回它节点值的前序/中旬/后序遍历。
