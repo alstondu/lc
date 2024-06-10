@@ -44,3 +44,6 @@ Leetcode practice
 5. [LC 150.逆波兰表达式求值](https://github.com/alstondu/lc/tree/main/150) | [Description](https://leetcode.cn/problems/evaluate-reverse-polish-notation/description/)
 6. [LC 239.滑动窗口最大值](https://github.com/alstondu/lc/tree/main/239) | [Description](https://leetcode.cn/problems/sliding-window-maximum/description/)
 7. [LC 347.前 K 个高频元素](https://github.com/alstondu/lc/tree/main/347) | [Description](https://leetcode.cn/problems/top-k-frequent-elements/description/)
+
+## 二叉树
+1. [LC 144，145，94.二叉树遍历](https://github.com/alstondu/lc/tree/main/14414594) | [Description 144](https://leetcode.cn/problems/binary-tree-preorder-traversal/description/)｜[Description 145](https://leetcode.cn/problems/binary-tree-postorder-traversal/description/)｜[Description 94](https://leetcode.cn/problems/binary-tree-inorder-traversal/description/)

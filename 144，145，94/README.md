@@ -42,7 +42,7 @@ TreeNode(int x): value(x), left(NULL), rignt(NULL){}
 
 [Leedcode 链接🔗 145](https://leetcode.cn/problems/binary-tree-postorder-traversal/description/) 
 
-[Leedcode 链接🔗 144](https://leetcode.cn/problems/binary-tree-inorder-traversal/description/) 
+[Leedcode 链接🔗 94](https://leetcode.cn/problems/binary-tree-inorder-traversal/description/) 
 
 [Code](https://github.com/alstondu/lc/blob/main/14414594/14414594.cpp)
 
