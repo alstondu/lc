@@ -47,4 +47,12 @@ Leetcode practice
 
 ## 二叉树
 1. [LC 144, 145, 94.二叉树遍历](https://github.com/alstondu/lc/tree/main/144%EF%BC%8C145%EF%BC%8C94) | [Description 144](https://leetcode.cn/problems/binary-tree-preorder-traversal/description/)｜[Description 145](https://leetcode.cn/problems/binary-tree-postorder-traversal/description/)｜[Description 94](https://leetcode.cn/problems/binary-tree-inorder-traversal/description/)
-2. [LC 二叉树的层序遍历](https://github.com/alstondu/lc/tree/main/102) | [Description](https://leetcode.cn/problems/binary-tree-level-order-traversal/)
+2. [LC 102.二叉树的层序遍历](https://github.com/alstondu/lc/tree/main/102) | [Description](https://leetcode.cn/problems/binary-tree-level-order-traversal/)
+3. [LC 226.翻转二叉树](https://github.com/alstondu/lc/tree/main/226) | [Description](https://leetcode.cn/problems/invert-binary-tree/description/)
+4. [LC 101. 对称二叉树](https://github.com/alstondu/lc/tree/main/101) | [Description](https://leetcode.cn/problems/symmetric-tree/description/)
+5. [LC 104.二叉树的最大深度](https://github.com/alstondu/lc/tree/main/104) | [Description](https://leetcode.cn/problems/maximum-depth-of-binary-tree/description/)
+6. [LC 111.二叉树的最小深度](https://github.com/alstondu/lc/tree/main/111) | [Description](https://leetcode.cn/problems/minimum-depth-of-binary-tree/description/)
+7. [LC 110.平衡二叉树](https://github.com/alstondu/lc/tree/main/110) | [Description](https://leetcode.cn/problems/balanced-binary-tree/description/)
+8. [LC 257. 二叉树的所有路径](https://github.com/alstondu/lc/tree/main/257) | [Description](https://leetcode.cn/problems/binary-tree-paths/description/)
+9. [LC 404.左叶子之和](https://github.com/alstondu/lc/tree/main/404) | [Description](https://leetcode.cn/problems/sum-of-left-leaves/description/)
+10. [LC 222.完全二叉树的节点个数](https://github.com/alstondu/lc/tree/main/222) | [Description](https://leetcode.cn/problems/count-complete-tree-nodes/description/)
