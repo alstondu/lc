@@ -57,5 +57,5 @@ Leetcode practice
 9. [LC 404.左叶子之和](https://github.com/alstondu/lc/tree/main/404) | [Description](https://leetcode.cn/problems/sum-of-left-leaves/description/)
 10. [LC 222.完全二叉树的节点个数](https://github.com/alstondu/lc/tree/main/222) | [Description](https://leetcode.cn/problems/count-complete-tree-nodes/description/)
 11. [LC 513.找树左下角的值](https://github.com/alstondu/lc/tree/main/513) | [Description](https://leetcode.cn/problems/find-bottom-left-tree-value/description/)
-12. [LC 112, 113. 路径总和](https://github.com/alstondu/lc/tree/main/112, 113) | [Description 112](https://leetcode.cn/problems/path-sum/description/) | [Description 113](https://leetcode.cn/problems/path-sum-ii/description/)
-13. [LC 106, 105.构造二叉树](https://github.com/alstondu/lc/tree/main/106, 105) | [Description 106](https://leetcode.cn/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/) | [Description 105](https://leetcode.cn/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)
+12. [LC 112, 113. 路径总和](https://github.com/alstondu/lc/tree/main/112%2C%20113) | [Description 112](https://leetcode.cn/problems/path-sum/description/) | [Description 113](https://leetcode.cn/problems/path-sum-ii/description/)
+13. [LC 106, 105.构造二叉树](https://github.com/alstondu/lc/tree/main/106%2C%20105) | [Description 106](https://leetcode.cn/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/) | [Description 105](https://leetcode.cn/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)
