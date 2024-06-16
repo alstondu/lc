@@ -1,4 +1,4 @@
-//  Created by Yuang Du on 2024/06/6.
+//  Created by Yuang Du on 2024/06/7.
 //  404. 左叶子之和
 
 #include "lc.h"
