@@ -59,3 +59,7 @@ Leetcode practice
 11. [LC 513.找树左下角的值](https://github.com/alstondu/lc/tree/main/513) | [Description](https://leetcode.cn/problems/find-bottom-left-tree-value/description/)
 12. [LC 112, 113. 路径总和](https://github.com/alstondu/lc/tree/main/112%2C%20113) | [Description 112](https://leetcode.cn/problems/path-sum/description/) | [Description 113](https://leetcode.cn/problems/path-sum-ii/description/)
 13. [LC 106, 105.构造二叉树](https://github.com/alstondu/lc/tree/main/106%2C%20105) | [Description 106](https://leetcode.cn/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/) | [Description 105](https://leetcode.cn/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)
+14. [LC 654.最大二叉树](https://github.com/alstondu/lc/tree/main/654) | [Description](https://leetcode.cn/problems/maximum-binary-tree/description/)
+15. [LC 617.合并二叉树](https://github.com/alstondu/lc/tree/main/617) | [Description](https://leetcode.cn/problems/merge-two-binary-trees/description/)
+16. [LC 700.二叉搜索树中的搜索](https://github.com/alstondu/lc/tree/main/700) | [Description](https://leetcode.cn/problems/search-in-a-binary-search-tree/description/)
+17. [LC 98.验证二叉搜索树](https://github.com/alstondu/lc/tree/main/98) | [Description](https://leetcode.cn/problems/validate-binary-search-tree/description/)
