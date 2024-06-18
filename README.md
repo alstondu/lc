@@ -69,3 +69,6 @@ Leetcode practice
 21. [LC 235.二叉搜索树的最近公共祖先](https://github.com/alstondu/lc/tree/main/235) | [Description](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)
 22. [LC 701.二叉搜索树中的插入操作](https://github.com/alstondu/lc/tree/main/701) | [Description](https://leetcode.cn/problems/insert-into-a-binary-search-tree/description/)
 23. [LC 450.删除二叉搜索树中的节点](https://github.com/alstondu/lc/tree/main/450) | [Description](https://leetcode.cn/problems/delete-node-in-a-bst/description/)
+24. [LC 669.修剪二叉搜索树](https://github.com/alstondu/lc/tree/main/669) | [Description](https://leetcode.cn/problems/trim-a-binary-search-tree/description/)
+25. [LC 108.将有序数组转换为二叉搜索树](https://github.com/alstondu/lc/tree/main/108) | [Description](https://leetcode.cn/problems/convert-sorted-array-to-binary-search-tree/description/)
+26. [LC 538.把二叉搜索树转换为累加树](https://github.com/alstondu/lc/tree/main/538) | [Description](https://leetcode.cn/problems/convert-bst-to-greater-tree/description/)
