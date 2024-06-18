@@ -66,3 +66,6 @@ Leetcode practice
 18. [LC 530.二叉搜索树的最小绝对差](https://github.com/alstondu/lc/tree/main/530) | [Description](https://leetcode.cn/problems/minimum-absolute-difference-in-bst/description/)
 19. [LC 501.二叉搜索树中的众数](https://github.com/alstondu/lc/tree/main/501) | [Description](https://leetcode.cn/problems/find-mode-in-binary-search-tree/description/)
 20. [LC 236.二叉树的最近公共祖先](https://github.com/alstondu/lc/tree/main/236) | [Description](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/description/)
+21. [LC 235.二叉搜索树的最近公共祖先](https://github.com/alstondu/lc/tree/main/235) | [Description](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)
+22. [LC 701.二叉搜索树中的插入操作](https://github.com/alstondu/lc/tree/main/701) | [Description](https://leetcode.cn/problems/insert-into-a-binary-search-tree/description/)
+23. [LC 450.删除二叉搜索树中的节点](https://github.com/alstondu/lc/tree/main/450) | [Description](https://leetcode.cn/problems/delete-node-in-a-bst/description/)
