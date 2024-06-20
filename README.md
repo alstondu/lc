@@ -72,3 +72,11 @@ Leetcode practice
 24. [LC 669.修剪二叉搜索树](https://github.com/alstondu/lc/tree/main/669) | [Description](https://leetcode.cn/problems/trim-a-binary-search-tree/description/)
 25. [LC 108.将有序数组转换为二叉搜索树](https://github.com/alstondu/lc/tree/main/108) | [Description](https://leetcode.cn/problems/convert-sorted-array-to-binary-search-tree/description/)
 26. [LC 538.把二叉搜索树转换为累加树](https://github.com/alstondu/lc/tree/main/538) | [Description](https://leetcode.cn/problems/convert-bst-to-greater-tree/description/)
+
+## 回溯算法
+1. [LC 77.组合](https://github.com/alstondu/lc/tree/main/77) | [Description](https://leetcode.cn/problems/combinations/description/)
+2. [LC 216.组合总和 III](https://github.com/alstondu/lc/tree/main/216) | [Description](https://leetcode.cn/problems/combination-sum-iii/description/)
+3. [LC 17.电话号码的字母组合](https://github.com/alstondu/lc/tree/main/17) | [Description](https://leetcode.cn/problems/letter-combinations-of-a-phone-number/description/)
+4. [LC 39.组合总和](https://github.com/alstondu/lc/tree/main/39) | [Description](https://leetcode.cn/problems/combination-sum/description/)
+5. [LC 40.组合总和 II](https://github.com/alstondu/lc/tree/main/40) | [Description](https://leetcode.cn/problems/combination-sum-ii/description/)
+6. [LC 131.分割回文串](https://github.com/alstondu/lc/tree/main/131) | [Description](https://leetcode.cn/problems/palindrome-partitioning/description/)
