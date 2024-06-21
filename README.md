@@ -80,3 +80,6 @@ Leetcode practice
 4. [LC 39.组合总和](https://github.com/alstondu/lc/tree/main/39) | [Description](https://leetcode.cn/problems/combination-sum/description/)
 5. [LC 40.组合总和 II](https://github.com/alstondu/lc/tree/main/40) | [Description](https://leetcode.cn/problems/combination-sum-ii/description/)
 6. [LC 131.分割回文串](https://github.com/alstondu/lc/tree/main/131) | [Description](https://leetcode.cn/problems/palindrome-partitioning/description/)
+7. [LC 93.复原IP地址](https://github.com/alstondu/lc/tree/main/93) | [Description](https://leetcode.cn/problems/restore-ip-addresses/description/)
+8. [LC 78.子集](https://github.com/alstondu/lc/tree/main/78) | [Description](https://leetcode.cn/problems/subsets/description/)
+9. [LC 90.子集II](https://github.com/alstondu/lc/tree/main/90) | [Description](https://leetcode.cn/problems/subsets-ii/description/)
