@@ -83,3 +83,8 @@ Leetcode practice
 7. [LC 93.复原IP地址](https://github.com/alstondu/lc/tree/main/93) | [Description](https://leetcode.cn/problems/restore-ip-addresses/description/)
 8. [LC 78.子集](https://github.com/alstondu/lc/tree/main/78) | [Description](https://leetcode.cn/problems/subsets/description/)
 9. [LC 90.子集II](https://github.com/alstondu/lc/tree/main/90) | [Description](https://leetcode.cn/problems/subsets-ii/description/)
+10. [LC 491.非递减子序列](https://github.com/alstondu/lc/tree/main/491) | [Description](https://leetcode.cn/problems/non-decreasing-subsequences/description/)
+11. [LC 46.全排列](https://github.com/alstondu/lc/tree/main/46) | [Description](https://leetcode.cn/problems/permutations/description/)
+12. [LC 47.全排列 II](https://github.com/alstondu/lc/tree/main/47) | [Description](https://leetcode.cn/problems/permutations-ii/description/)
+11. [LC 51.N皇后](https://github.com/alstondu/lc/tree/main/51) | [Description](https://leetcode.cn/problems/n-queens/description/)
+12. [LC 37.解数独](https://github.com/alstondu/lc/tree/main/37) | [Description](https://leetcode.cn/problems/sudoku-solver/description/)
