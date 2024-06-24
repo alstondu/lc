@@ -86,5 +86,10 @@ Leetcode practice
 10. [LC 491.非递减子序列](https://github.com/alstondu/lc/tree/main/491) | [Description](https://leetcode.cn/problems/non-decreasing-subsequences/description/)
 11. [LC 46.全排列](https://github.com/alstondu/lc/tree/main/46) | [Description](https://leetcode.cn/problems/permutations/description/)
 12. [LC 47.全排列 II](https://github.com/alstondu/lc/tree/main/47) | [Description](https://leetcode.cn/problems/permutations-ii/description/)
-11. [LC 51.N皇后](https://github.com/alstondu/lc/tree/main/51) | [Description](https://leetcode.cn/problems/n-queens/description/)
-12. [LC 37.解数独](https://github.com/alstondu/lc/tree/main/37) | [Description](https://leetcode.cn/problems/sudoku-solver/description/)
+13. [LC 51.N皇后](https://github.com/alstondu/lc/tree/main/51) | [Description](https://leetcode.cn/problems/n-queens/description/)
+14. [LC 37.解数独](https://github.com/alstondu/lc/tree/main/37) | [Description](https://leetcode.cn/problems/sudoku-solver/description/)
+
+## 贪心算法
+1. [LC 455.分发饼干](https://github.com/alstondu/lc/tree/main/455) | [Description](https://leetcode.cn/problems/assign-cookies/)
+2. [LC 376.摆动序列](https://github.com/alstondu/lc/tree/main/376) | [Description](https://leetcode.cn/problems/wiggle-subsequence/description/)
+3. [LC 53.最大子数组和](https://github.com/alstondu/lc/tree/main/53) | [Description](https://leetcode.cn/problems/maximum-subarray/description/)

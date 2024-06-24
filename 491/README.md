@@ -1,4 +1,4 @@
-# 491.递增子序列
+# 491. 递增子序列
 
 [Leedcode 链接🔗](https://leetcode.cn/problems/non-decreasing-subsequences/description/)  
 [Code](https://github.com/alstondu/lc/blob/main/491/491.cpp)
