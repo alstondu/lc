@@ -101,3 +101,6 @@ Leetcode practice
 9. [LC 135.分发糖果](https://github.com/alstondu/lc/tree/main/135) | [Description](https://leetcode.cn/problems/candy/description/)
 10. [LC 860.柠檬水找零](https://github.com/alstondu/lc/tree/main/860) | [Description](https://leetcode.cn/problems/lemonade-change/description/)
 11. [LC 406.根据身高重建队列](https://github.com/alstondu/lc/tree/main/406) | [Description](https://leetcode.cn/problems/queue-reconstruction-by-height/description/)
+12. [LC 452.用最少数量的箭引爆气球](https://github.com/alstondu/lc/tree/main/452) | [Description](https://leetcode.cn/problems/minimum-number-of-arrows-to-burst-balloons/description/)
+13. [LC 435.无重叠区间](https://github.com/alstondu/lc/tree/main/435) | [Description](https://leetcode.cn/problems/non-overlapping-intervals/description/)
+14. [LC 763.划分字母区间](https://github.com/alstondu/lc/tree/main/763) | [Description](https://leetcode.cn/problems/partition-labels/description/)
