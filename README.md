@@ -104,3 +104,6 @@ Leetcode practice
 12. [LC 452.用最少数量的箭引爆气球](https://github.com/alstondu/lc/tree/main/452) | [Description](https://leetcode.cn/problems/minimum-number-of-arrows-to-burst-balloons/description/)
 13. [LC 435.无重叠区间](https://github.com/alstondu/lc/tree/main/435) | [Description](https://leetcode.cn/problems/non-overlapping-intervals/description/)
 14. [LC 763.划分字母区间](https://github.com/alstondu/lc/tree/main/763) | [Description](https://leetcode.cn/problems/partition-labels/description/)
+15. [LC 56.合并区间](https://github.com/alstondu/lc/tree/main/56) | [Description](https://leetcode.cn/problems/merge-intervals/description/)
+16. [LC 738.单调递增的数字](https://github.com/alstondu/lc/tree/main/738) | [Description](https://leetcode.cn/problems/monotone-increasing-digits/description/)
+17. [LC 968.监控二叉树](https://github.com/alstondu/lc/tree/main/968) | [Description](https://leetcode.cn/problems/binary-tree-cameras/description/)
