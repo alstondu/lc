@@ -116,3 +116,5 @@ Leetcode practice
 5. [LC 63.不同路径 II](https://github.com/alstondu/lc/tree/main/63) | [Description](https://leetcode.cn/problems/unique-paths-ii/description/)
 6. [LC 343.整数拆分](https://github.com/alstondu/lc/tree/main/343) | [Description](https://leetcode.cn/problems/integer-break/description/)
 7. [LC 96.不同的二叉搜索树](https://github.com/alstondu/lc/tree/main/96) | [Description](https://leetcode.cn/problems/unique-binary-search-trees/description/)
+8. [卡码网 46.0-1背包](https://github.com/alstondu/lc/tree/main/km46) | [Description](https://kamacoder.com/problempage.php?pid=1046)
+9. [LC 416.分割等和子集](https://github.com/alstondu/lc/tree/main/416) | [Description](https://leetcode.cn/problems/partition-equal-subset-sum/description/)
