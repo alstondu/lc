@@ -118,3 +118,6 @@ Leetcode practice
 7. [LC 96.不同的二叉搜索树(TO DO)](https://github.com/alstondu/lc/tree/main/96) | [Description](https://leetcode.cn/problems/unique-binary-search-trees/description/)
 8. [卡码网 46.0-1背包](https://github.com/alstondu/lc/tree/main/km46) | [Description](https://kamacoder.com/problempage.php?pid=1046)
 9. [LC 416.分割等和子集](https://github.com/alstondu/lc/tree/main/416) | [Description](https://leetcode.cn/problems/partition-equal-subset-sum/description/)
+10. [LC 1049.最后一块石头的重量 II](https://github.com/alstondu/lc/tree/main/1049) | [Description](https://leetcode.cn/problems/last-stone-weight-ii/description/)
+11. [LC 494.目标和](https://github.com/alstondu/lc/tree/main/494) | [Description](https://leetcode.cn/problems/target-sum/description/)
+12. [LC 474.一和零](https://github.com/alstondu/lc/tree/main/474) | [Description](https://leetcode.cn/problems/ones-and-zeroes/description/)
