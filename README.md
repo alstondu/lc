@@ -138,3 +138,6 @@ Leetcode practice
 27. [LC 188.买卖股票的最佳时机IV](https://github.com/alstondu/lc/tree/main/188) | [Description](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-iv/description/)
 28. [LC 309.最佳买卖股票时机含冷冻期](https://github.com/alstondu/lc/tree/main/309) | [Description](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/)
 29. [LC 714.买卖股票的最佳时机含手续费](https://github.com/alstondu/lc/tree/main/714) | [Description](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/)
+30. [LC 300.最长递增子序列](https://github.com/alstondu/lc/tree/main/300) | [Description](https://leetcode.cn/problems/longest-increasing-subsequence/description/)
+31. [LC 674.最长连续递增序列](https://github.com/alstondu/lc/tree/main/674) | [Description](https://leetcode.cn/problems/longest-continuous-increasing-subsequence/description/)
+32. [LC 718.最长重复子数组](https://github.com/alstondu/lc/tree/main/718) | [Description](https://leetcode.cn/problems/maximum-length-of-repeated-subarray/description/)
