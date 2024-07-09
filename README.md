@@ -141,3 +141,7 @@ Leetcode practice
 30. [LC 300.最长递增子序列](https://github.com/alstondu/lc/tree/main/300) | [Description](https://leetcode.cn/problems/longest-increasing-subsequence/description/)
 31. [LC 674.最长连续递增序列](https://github.com/alstondu/lc/tree/main/674) | [Description](https://leetcode.cn/problems/longest-continuous-increasing-subsequence/description/)
 32. [LC 718.最长重复子数组](https://github.com/alstondu/lc/tree/main/718) | [Description](https://leetcode.cn/problems/maximum-length-of-repeated-subarray/description/)
+33. [LC 1143.最长公共子序列](https://github.com/alstondu/lc/tree/main/1143) | [Description](https://leetcode.cn/problems/longest-common-subsequence/description/)
+34. [LC 1035.不相交的线](https://github.com/alstondu/lc/tree/main/1035) | [Description](https://leetcode.cn/problems/uncrossed-lines/description/)
+35. [LC 53.最大子数组和(动态规划)](https://github.com/alstondu/lc/tree/main/53) | [Description](https://leetcode.cn/problems/maximum-subarray/description/)
+36. [LC 392.判断子序列](https://github.com/alstondu/lc/tree/main/392) | [Description](https://leetcode.cn/problems/is-subsequence/description/)
