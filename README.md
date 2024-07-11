@@ -145,3 +145,8 @@ Leetcode practice
 34. [LC 1035.不相交的线](https://github.com/alstondu/lc/tree/main/1035) | [Description](https://leetcode.cn/problems/uncrossed-lines/description/)
 35. [LC 53.最大子数组和(动态规划)](https://github.com/alstondu/lc/tree/main/53) | [Description](https://leetcode.cn/problems/maximum-subarray/description/)
 36. [LC 392.判断子序列](https://github.com/alstondu/lc/tree/main/392) | [Description](https://leetcode.cn/problems/is-subsequence/description/)
+37. [LC 115.不同的子序列](https://github.com/alstondu/lc/tree/main/115) | [Description](https://leetcode.cn/problems/distinct-subsequences/description/)
+38. [LC 583.两个字符串的删除操作](https://github.com/alstondu/lc/tree/main/583) | [Description](https://leetcode.cn/problems/delete-operation-for-two-strings/description/)
+39. [LC 72.编辑距离](https://github.com/alstondu/lc/tree/main/72) | [Description](https://leetcode.cn/problems/edit-distance/description/)
+40. [LC 647.回文子串](https://github.com/alstondu/lc/tree/main/647) | [Description](https://leetcode.cn/problems/palindromic-substrings/description/)
+41. [LC 516.最长回文子序列](https://github.com/alstondu/lc/tree/main/516) | [Description](https://leetcode.cn/problems/longest-palindromic-subsequence/description/)
