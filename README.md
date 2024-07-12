@@ -150,3 +150,8 @@ Leetcode practice
 39. [LC 72.编辑距离](https://github.com/alstondu/lc/tree/main/72) | [Description](https://leetcode.cn/problems/edit-distance/description/)
 40. [LC 647.回文子串](https://github.com/alstondu/lc/tree/main/647) | [Description](https://leetcode.cn/problems/palindromic-substrings/description/)
 41. [LC 516.最长回文子序列](https://github.com/alstondu/lc/tree/main/516) | [Description](https://leetcode.cn/problems/longest-palindromic-subsequence/description/)
+
+## 单调栈
+1. [LC 739.每日温度 ](https://github.com/alstondu/lc/tree/main/739) | [Description](https://leetcode.cn/problems/daily-temperatures/description/)
+2. [LC 496.下一个更大元素 I ](https://github.com/alstondu/lc/tree/main/496) | [Description](https://leetcode.cn/problems/next-greater-element-i/description/)
+3. [LC 503.下一个更大元素II](https://github.com/alstondu/lc/tree/main/503) | [Description](https://leetcode.cn/problems/next-greater-element-ii/description/)
