@@ -159,3 +159,7 @@ Leetcode practice
 5. [LC 84.柱状图中最大的矩形](https://github.com/alstondu/lc/tree/main/84) | [Description](https://leetcode.cn/problems/largest-rectangle-in-histogram/description/)
 
 ## 图论
+1. [卡码网 98.所有可达路径](https://github.com/alstondu/lc/tree/main/km98) | [Description](https://kamacoder.com/problempage.php?pid=1170)
+2. [LC 797.所有可能的路径](https://github.com/alstondu/lc/tree/main/797) | [Description](https://leetcode.cn/problems/all-paths-from-source-to-target/)
+3. [卡码网 99.岛屿数量](https://github.com/alstondu/lc/tree/main/km99) | [Description](https://kamacoder.com/problempage.php?pid=1171)
+4. [LC 100.岛屿的最大面积](https://github.com/alstondu/lc/tree/main/km100) | [Description](https://kamacoder.com/problempage.php?pid=1172)
