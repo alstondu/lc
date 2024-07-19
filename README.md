@@ -167,3 +167,6 @@ Leetcode practice
 6. [卡码网 102.沉没孤岛](https://github.com/alstondu/lc/tree/main/km102) | [Description](https://kamacoder.com/problempage.php?pid=1174)
 7. [卡码网 103.水流问题](https://github.com/alstondu/lc/tree/main/km103) | [Description](https://kamacoder.com/problempage.php?pid=1175)
 8. [卡码网 104.建造最大岛屿](https://github.com/alstondu/lc/tree/main/km104) | [Description](https://kamacoder.com/problempage.php?pid=1176)
+9. [卡码网 110.字符串接龙](https://github.com/alstondu/lc/tree/main/km110) | [Description](https://kamacoder.com/problempage.php?pid=1183)
+10. [卡码网 105.有向图的完全可达性](https://github.com/alstondu/lc/tree/main/km105) | [Description](https://kamacoder.com/problempage.php?pid=1177)
+11. [卡码网 106.岛屿的周长](https://github.com/alstondu/lc/tree/main/km106) | [Description](https://kamacoder.com/problempage.php?pid=1178)
